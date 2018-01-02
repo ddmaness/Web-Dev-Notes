@@ -57,3 +57,20 @@ it is actually needed)?
 it is best to apply them directly to modules even if you have to apply them to multiple modules.  Why?
 
 What is an alternative to adding and removing classes to handle element state changes in HTML5
+
+(SMACSS) What is a potential downside of combining pseudo-classes with sub-modules?
+
+What is the SMACSS method for organizing media queries?
+
+(SMACSS) Describe depth of applicability.  Why depth should be minimized?
+
+What are the 2 core goals of the SMACSS approach?
+
+(SMACSS) What are three elements that you should avoid styling as a base rule and instead style as a module?
+
+!important overrides specificity but not...
+
+
+
+- NOTE: return to SMACSS documentation after 
+
