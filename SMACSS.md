@@ -72,5 +72,5 @@ What are the 2 core goals of the SMACSS approach?
 
 
 
-- NOTE: return to SMACSS documentation after 
+- NOTE: return to SMACSS documentation after learning to use Sass
 
