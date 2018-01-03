@@ -24,7 +24,7 @@ What is one downside to using css resets, what is one alternative?
 
 What is the major difference between layout elements and module elements in SMACSS? What are a couple of examples of each?
 
-What SMACSS element should be designed to exist as a standalone component that can be moved to another a different
+---- What SMACSS element should be designed to exist as a standalone component that can be moved to another a different
 part of the site without breaking the layout?
 
 (SMACSS) When defining a rule set for a module you should avoid using IDs and element selectors as well as adding unique classnames to 
