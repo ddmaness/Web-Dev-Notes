@@ -1,4 +1,6 @@
-# performance and Organization
+# Shay Howe Advanced CSS and HTML
+
+## performance and Organization
 
 What are three major concerns when considering the strategy and structure of the development code base?
 
@@ -46,3 +48,33 @@ what files are commonly cached for a month?
 what files are commonly cached for a year?
 
 Why must version numbers be used if you change a file you set to cache?
+
+
+## Positioning
+
+Describe the reasons for clearing floats and the advantages/disadvantages of each method
+
+Compare and contrast absolute relative, and fixed positioning
+
+the higher the value of the z index the ___________ the element is positioned.
+
+## Complex Selectors
+
+Describe the decendent selector and how to utilize it.
+
+Describe the direct child selector and how to utilize it.
+
+Describe the general sibling selector and how it is used.
+
+Describe adjacent sibling selector and how it is used.
+
+Describe the attribute present selector and describe how it is used.
+
+Describe the atrribute equals selector and describe how it is used.
+
+Describe the attribute contains selector and how to use it.
+
+Describe the attribute begins with selector and how to use it.
+
+
+## 
