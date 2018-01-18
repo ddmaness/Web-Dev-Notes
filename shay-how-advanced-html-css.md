@@ -76,5 +76,37 @@ Describe the attribute contains selector and how to use it.
 
 Describe the attribute begins with selector and how to use it.
 
+Describe the attribute ends with selector and how to use it.
 
+Describe the attribute spaced selector and how to use it.
+
+Describe the attribute hyphenated selector and how to use it.
+
+Decribe the link psuedo-classes and how they are used.
+
+Decribe the Action psuedo-classes and how they are used.
+
+Decribe the user action psuedo-classes and how they are used.
+
+Decribe the user interface state psuedo-classes and how they are used.
+
+Decribe the structural and position psuedo-classes and how they are used.
+
+Describe the difference between the -child and -of-type pseudo selectors.
+
+what is the equation that can be used in the nth psuedo selector and what does each variable represent?
+
+Describe the target psuedo class and how it is used.
+
+Decribe the empty psuedo-class and how it is used.
+
+Describe the negation pseudo-class and how it is used.
+
+What are "psuedo-elements"?
+
+Decribe the textual psuedo-elements and how they are used.
+
+Decribe the Generated Content psuedo-elements and how they are used.
+
+Decribe the fragment psuedo-element and how they are used.
 ## 
