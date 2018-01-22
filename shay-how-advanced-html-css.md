@@ -109,4 +109,27 @@ Decribe the textual psuedo-elements and how they are used.
 Decribe the Generated Content psuedo-elements and how they are used.
 
 Decribe the fragment psuedo-element and how they are used.
-## 
+
+## Responsive Web Design
+
+what is the equation for calculating a fixed length unit(px) and converting it to relative length units while
+maintaining the proportions
+
+What are the three logical operators that can be included in media queries?
+
+what css3 assets tend to be slow to render on mobile devices and one may consider reducing/excluding their use
+to desktop browsers via media queries?
+
+What is one quick way to insure that media scales down as its container shrinks?
+
+Describe the workaround for getting embedded media (iframes) to respond to changes in its parent elements size.
+
+## Preprocessors
+
+What is haml and why is it useful?
+
+What is sass and why is it useful?
+
+what is the similarities/differences between mixins and extends in sass?
+
+
