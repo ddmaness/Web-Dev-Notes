@@ -133,3 +133,19 @@ What is sass and why is it useful?
 what is the similarities/differences between mixins and extends in sass?
 
 
+## Transforms
+
+What values are accepted by the transform property?
+
+What is the "transform-origin" property?
+
+Double check for desired outcome when using transform-origin along with __________________ .
+
+the perspective property is comparable to the idea of a _______________________ in a 3d drawing.
+
+when should you apply the perspective property to individual elements vs parent elements?
+
+the higher the perspective length value the __________________ the percieved depth.
+
+
+
