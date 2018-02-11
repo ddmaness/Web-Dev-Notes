@@ -180,3 +180,13 @@ What is the animation-fill-mode property and how is it used?
 What are the order of values when using the animation shorthand?
 
 
+## Extending Semantics & Accessibility
+
+Why is using display: none bad practice for accessability and what is the prefered alternative?
+
+what is the semantic difference between the two ways to bold text?
+
+what is the semantic difference between the two ways to italicize text?
+
+
+
