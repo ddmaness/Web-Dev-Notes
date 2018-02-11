@@ -147,5 +147,36 @@ when should you apply the perspective property to individual elements vs parent 
 
 the higher the perspective length value the __________________ the percieved depth.
 
+What property allows you to change the location of the vanishing point when using the perspective property?
+
+What values of the transform property allow you to rotate a element on a 3d plane?
+
+what transform values allow you to scale and translate in 3d?
+
+What is the one transform property that does not have a 3d equivalent?
+
+Shorthand 3d transforms require a knowledge of ________________.
+
+To ensure that a child element that is being 3d transformed inside of a parent element that is also being 3d transformed
+appear in their own 3d plane you must use _______________________.
+
+How do you prevent the back of an element from showing when rotated backwords?
+
+
+## Transitions & Animations
+
+What are the four transition related properties?
+
+WHat are the various keywords of the transition-timing-function and what do each mean?
+
+how do you create custom timing functions?
+
+what properties are declared along with animation and what does each do?
+
+What is the animation-play-state property and how is it used?
+
+What is the animation-fill-mode property and how is it used?
+
+What are the order of values when using the animation shorthand?
 
 
