@@ -84,13 +84,13 @@ Describe the attribute hyphenated selector and how to use it.
 
 Decribe the link psuedo-classes and how they are used.
 
-Decribe the Action psuedo-classes and how they are used.
+Describe the Action psuedo-classes and how they are used.
 
 Decribe the user action psuedo-classes and how they are used.
 
-Decribe the user interface state psuedo-classes and how they are used.
+Desscribe the user interface state psuedo-classes and how they are used.
 
-Decribe the structural and position psuedo-classes and how they are used.
+Describe the structural and position psuedo-classes and how they are used.
 
 Describe the difference between the -child and -of-type pseudo selectors.
 
@@ -104,11 +104,11 @@ Describe the negation pseudo-class and how it is used.
 
 What are "psuedo-elements"?
 
-Decribe the textual psuedo-elements and how they are used.
+Describe the textual psuedo-elements and how they are used.
 
-Decribe the Generated Content psuedo-elements and how they are used.
+Describe the Generated Content psuedo-elements and how they are used.
 
-Decribe the fragment psuedo-element and how they are used.
+Describe the fragment psuedo-element and how they are used.
 
 ## Responsive Web Design
 
@@ -188,5 +188,33 @@ what is the semantic difference between the two ways to bold text?
 
 what is the semantic difference between the two ways to italicize text?
 
+What is the semantic difference between the two ways to underline text?
 
+what is the ins element and what attributes should be added to make it more semantic?
+
+what are the del and s elements in html and how are they different
+
+what element in html5 allows you to highlight text?
+
+what is the abbr element and what attribute should accompany it?
+
+how do you make a subsript or superscript using html?
+
+what html elements allow you to guage scale or indicate progress and what is the difference between the two?
+
+What elements allow you to present code in a page and when should you use each?
+
+what is the wbr element and for what is it used?
+
+copywrite and side comments are to be displayed in what element?
+
+what three elements are used in citations and quotes and when is each used?
+
+what is the download attribute and for what is it used?
+
+what is the relationship attribute and for what is it used?
+
+What is microdata and for what is it used?
+
+What are the three main attributes of microdata and for what is each used?
 
