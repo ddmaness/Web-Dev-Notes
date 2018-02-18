@@ -69,6 +69,32 @@ How do you import groups of files in sass
 
 How are variables declared and referenced in sass?
 
+What data types can be given to sass variables?
+
+describe the behavior of variable scope in sass.
+
+what is variable interpolation and how is it used in sass?
+
+what is modular naming as it pertains to sass variables?
+
+What math operations are available to sass variables
+
+What are the rules for using division in sass?
+
+what math functions are available in sass?
+
+colors in sass can be manipulated using ______________.
+
+What are nine common color manipulation functions available in sass and what does
+each do?
+
+
+
+
+
+
+
+
 
 
 
