@@ -89,20 +89,19 @@ What are nine common color manipulation functions available in sass and what doe
 each do?
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Section IV: Advanced Sass
+
+How are sass mixins different than sass variables?
+
+how do you declare and reference sass mixins?
+
+mixins are best used for ________ where ________ differ from case to case.
+
+how do you declare a default value for an optional sass mixin arguement?
+
+multiple sass mixin arguements are ____________ separated and _______ matters.
+
+optional arguments in sass mixins  should be placed where in the set?
 
 
 
