@@ -142,6 +142,17 @@ What does the media query "@content" directive allow us to do in sass?
 
 What are two downsides to sass media queries?
 
+## Section VI: Modular Architecture
+
+What is modular architecture as it pertains to css and sass?
+
+What are the goals of modular architecture?
+
+What are 6 generalizable tips for using sass?
+
+
+
+
 
 
 
