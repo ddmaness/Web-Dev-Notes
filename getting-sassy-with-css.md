@@ -55,3 +55,29 @@ and used in SassScript.
 
 in Sass, namespaced properties can be ___________________.
 
+What advantages does Sass's @import have over css's native @import
+
+if no path is given to the Sass's @import statement, it is assumed that the file is...
+
+What would this command in the terminal do? $ sass sass/ css/
+
+What is a sass partial and how is it designated?
+
+what are three common practices for sass imports?
+
+How do you import groups of files in sass
+
+How are variables declared and referenced in sass?
+
+
+
+
+
+
+
+
+## Section IV: Advanced Sass
+
+
+
+
