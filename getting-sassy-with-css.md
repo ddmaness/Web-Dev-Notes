@@ -107,6 +107,46 @@ if using keywords in mixins arguements order _____________.
 
 how if variable interpolation used in sass mixins?
 
+What is Sass @extend and what does it allow us to do?
+
+How do you use @extend in sass?
+
+What are Sass placeholders and how are they used?
+
+When should you use @extend and when should you use @mixin?
+
+how do you use functions in sass?
+
+how do you use conditionals in sass?
+
+sass shares it comparison operators with ____________.
+
+How are each loops used in sass?
+
+how are for loops used in sass?
+
+how are while loops used in sass?
+
+What are maps and how are they used in sass?
+
+in sass, what are some functions available for maps?
+
+
+## Section V: Media Queries
+
+What is the main difference between how media queries work in css3 vs sass?
+
+In sass, it make sense to make media query break points into ___________.
+
+What does the media query "@content" directive allow us to do in sass?
+
+What are two downsides to sass media queries?
+
+
+
+
+
+
 
 
 
